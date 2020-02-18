@@ -1,7 +1,11 @@
 Public class mainJava{
 
 public static void main(String[]args){
-        System.out.println("My Real Repository");
+        
+        System.out.println(" please enter your name: ");
+        
+        System.exit(0);
+        
         }
 
         }
